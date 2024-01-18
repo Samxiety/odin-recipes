@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.headlines{
+    background-color: rgb(228, 168, 56);
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.recipes{
+    color: rgb(228, 168, 56);
+    background-color: rgb(255, 255, 255);
+
+}
+
+#lasagna{
+    font-size: 14px;
+}
+
+#chili{
+    font-size: 20px;
+}
+
+#curry{
+    font-size: 16px;
+}
